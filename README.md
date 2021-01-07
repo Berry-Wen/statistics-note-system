@@ -1,5 +1,8 @@
 # statistics-note-system
-This is the markdown file of the courses learned during the graduate school. Due to the busy first semester, there are some omissions
+
+统计学研究生笔记
+<br /> 
+&emsp;&emsp;This is the markdown file of the courses learned during the graduate school. Due to the busy first semester, there are some omissions
 
 
 给未来的学弟学妹：
